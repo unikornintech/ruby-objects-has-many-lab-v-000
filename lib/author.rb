@@ -9,4 +9,5 @@ class Author
   def posts 
     @posts 
   end 
+  
 end 
