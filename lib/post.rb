@@ -18,6 +18,9 @@ class Post
     end
   end
   
-  def 
+  def all
+    @@all 
+  end 
+  
   
 end 
