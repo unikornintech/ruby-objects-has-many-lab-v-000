@@ -11,4 +11,6 @@ class Author
     @posts
   end 
   
+  def 
+  
 end 
