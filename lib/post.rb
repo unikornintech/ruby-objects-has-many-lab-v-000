@@ -18,6 +18,10 @@ class Post
     end
   end
   
+  def title
+    title = self.name
+  end
+  
   def all
     @@all 
   end 
